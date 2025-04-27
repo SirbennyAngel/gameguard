@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/community-registry.clar"
 depends_on = []
 
+[contracts.reputation-manager]
+path = "contracts/reputation-manager.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
